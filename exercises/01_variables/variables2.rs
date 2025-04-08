@@ -1,6 +1,6 @@
 fn main() {
     // TODO: Change the line below to fix the compiler error.
-    let x: u8 = 10;
+    let x: i8 = 10;
     is10(x);
 
     let x = 8;
